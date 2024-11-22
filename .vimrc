@@ -1,0 +1,19 @@
+
+set number
+set linebreak
+set showbreak=+++
+set textwidth=100
+set showmatch
+set hlsearch
+set smartcase
+set ignorecase
+set incsearch
+set autoindent
+set shiftwidth=4
+set tabstop=4
+set showmode
+set ruler
+set nobackup
+set smartindent
+set smarttab
+set softtabstop=4
