@@ -1,3 +1,3 @@
 #!/bin/bash
-cd ~
-ln -s ~/.dotfiles/.gitconfig ~/.gitconfig
+
+# script to setup the environment for development
