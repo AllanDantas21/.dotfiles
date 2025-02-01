@@ -6,17 +6,31 @@ TERM = "xterm-256color"
 [window]
 dimensions = { columns = 100, lines = 30 }
 padding = { x = 5, y = 5 }
-decorations = "full"
+decorations = "buttonless"
 opacity = 0.9
+
+
+[[colors.indexed_colors]]
+color = "#FAB387"
+index = 16
+
+[[colors.indexed_colors]]
+color = "#F5E0DC"
+index = 17
 
 # Font settings
 [font]
+normal.family = "ComicShannsMono Nerd Font"
+bold.family = "ComicShannsMono Nerd Font"
+italic.family = "ComicShannsMono Nerd Font"
 size = 16.0
 
-# Colors (based on Nord theme)
+# Colors (based on Nord theme)  
 [colors.primary]
 background = "0x2E3440"
 foreground = "0xD8DEE9"
+dim_foreground = "#7f849c"
+bright_foreground = "#cdd6f4"
 
 [colors.cursor]
 text = "0x2E3440"
@@ -49,3 +63,5 @@ white = "0xECEFF4"
 # Shell settings
 [terminal.shell]
 program = "ubuntu"
+
+
