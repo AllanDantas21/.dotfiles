@@ -1,8 +1,14 @@
 # Dotfiles
 
-Minhas configurações pessoais para várias ferramentas e aplicativos que utilizo no meu ambiente de desenvolvimento.
+My personal configurations for tools in my development environment.
 
-## Configurações
+## Environment
+
+- Windows 11/10
+- WSL2
+- Unix
+
+## Configurations
 
 ## Tiling window manager
 [komorebi](https://github.com/LGUG2Z/komorebi)
@@ -12,4 +18,7 @@ Minhas configurações pessoais para várias ferramentas e aplicativos que utili
 
 ## Text editor
 [vim](https://www.vim.org/)
-cursor [cursor](https://www.cursor.com/)
+[cursor](https://www.cursor.com/)
+
+## Shell
+[zsh](https://zsh.sourceforge.io/)
