@@ -5,11 +5,11 @@ Minhas configurações pessoais para várias ferramentas e aplicativos que utili
 ## Configurações
 
 ## Tiling window manager
-    - komorebi [komorebi](https://github.com/LGUG2Z/komorebi)
+[komorebi](https://github.com/LGUG2Z/komorebi)
 
 ## Terminal
-    - alacritty [alacritty](https://github.com/alacritty/alacritty)
+[alacritty](https://github.com/alacritty/alacritty)
 
 ## Text editor
-    - vim [vim](https://www.vim.org/)
-    - cursor [cursor](https://www.cursor.com/)
+[vim](https://www.vim.org/)
+cursor [cursor](https://www.cursor.com/)
