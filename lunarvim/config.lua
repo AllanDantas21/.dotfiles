@@ -16,20 +16,19 @@ vim.list_extend(lvim.lsp.automatic_configuration.skipped_servers, { "clangd" })
 vim.opt.timeoutlen = 500
 
 lvim.plugins = {
-    -- Plugin para formatação de código 42
     { 'cacharle/c_formatter_42.vim' },
 
     -- Plugin 42-header
     {
         "Diogo-ss/42-header.nvim",
-        lazy = false,  -- Carrega o plugin na inicialização
+        lazy = false,
         config = function()
             local header = require("42header")
             header.setup({
                 default_map = true,   -- Mapeamento padrão <F1> no modo normal
                 auto_update = true,   -- Atualiza o cabeçalho ao salvar
-                user = "aldantas",    -- Seu usuário
-                mail = "aldantas@student.42.rio",  -- Seu e-mail
+                user = "aldantas",
+                mail = "aldantas@student.42.rio",
             })
         end
     },

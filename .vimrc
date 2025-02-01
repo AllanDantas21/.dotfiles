@@ -1,4 +1,3 @@
-
 set number
 set linebreak
 set showbreak=+++
