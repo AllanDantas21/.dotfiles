@@ -17,8 +17,8 @@ My personal configurations for tools in my development environment.
 
 ### Configurations
 
-- [komorebi](https://github.com/LGUG2Z/komorebi)
-- [alacritty](https://github.com/alacritty/alacritty)
-- [lvim](https://www.vim.org/)
-- [cursor](https://www.cursor.com/)
-- [zsh](https://zsh.sourceforge.io/)
+[komorebi](https://github.com/LGUG2Z/komorebi)
+[alacritty](https://github.com/alacritty/alacritty)
+[lvim](https://www.vim.org/)
+[cursor](https://www.cursor.com/)
+[zsh](https://zsh.sourceforge.io/)
